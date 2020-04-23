@@ -1,0 +1,6 @@
+name: MemeAutoMessage
+version: ${project.version}
+main: pl.memexurer.automsg.AutoMessagePlugin
+description: Plugin na automatyczne wiadomosci
+depend:
+  - ProtocolLib
